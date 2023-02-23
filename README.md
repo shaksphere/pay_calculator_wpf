@@ -19,7 +19,17 @@ This was completed as a project for a Object-Oriented Programming unit at TAFE N
 
 ![image](https://user-images.githubusercontent.com/110363828/220803846-8df79e8d-a6ea-46ca-8667-e6231dfbb91a.png)
 
-## How it Works
+
+
+## Usage
+To use the application, follow these steps:
+
+1. Clone the repository to your local machine or download the ZIP file.
+2. Open the .sln file in Visual Studio.
+3. Click 'run' to run the application.
+4. Follow the instructions in the 'How it works' section below
+
+## How it works
 1. Run the application.
 2. Select an employee from the dropdown menu.
 3. Enter the number of hours worked.
@@ -27,17 +37,6 @@ This was completed as a project for a Object-Oriented Programming unit at TAFE N
 5. Click "Ok" on the dialog box and you will then see a payment summary preview on the right side of the application.
 6. Click "Save New Payslip" and you will get a confirmation that the new payslip has been saved.
 7. The new CSV payslip file is now available with the employee’s name and date/time stamp on the file.
-
-## Usage
-To use the application, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Open the EmployeePayCalculator directory.
-3. Double-click the EmployeePayCalculator.exe file to run the application.
-4. Select an employee from the dropdown menu.
-5. Enter the number of hours worked.
-6. Click the "Calculate" button to see the payment summary preview.
-7. Click "Save New Payslip" to save the payslip to a new file.
 
 ## Requirements
 To run the application, you will need:
