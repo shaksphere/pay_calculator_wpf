@@ -1,0 +1,9 @@
+﻿<Application x:Class="CI_OOP_PayCalculator_SA_WPFT2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CI_OOP_PayCalculator_SA_WPFT2"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

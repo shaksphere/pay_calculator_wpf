@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CI_OOP_PayCalculator_SA_WPFT2", "CI_OOP_PayCalculator_SA_WPFT2.csproj", "{13855880-81A2-4B97-BD6B-EA7D6AD78BBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CI_OOP_PayCalculator_SA_WPFT2TestPCMSG", "..\CI_OOP_PayCalculator_SA_WPFT2TestPCMSG\CI_OOP_PayCalculator_SA_WPFT2TestPCMSG.csproj", "{FB5E4C54-A8D0-412D-8689-D3AEDB8D3161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13855880-81A2-4B97-BD6B-EA7D6AD78BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13855880-81A2-4B97-BD6B-EA7D6AD78BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13855880-81A2-4B97-BD6B-EA7D6AD78BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13855880-81A2-4B97-BD6B-EA7D6AD78BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB5E4C54-A8D0-412D-8689-D3AEDB8D3161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5E4C54-A8D0-412D-8689-D3AEDB8D3161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5E4C54-A8D0-412D-8689-D3AEDB8D3161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5E4C54-A8D0-412D-8689-D3AEDB8D3161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {350A4F58-90A5-4BC4-AF5D-1B7E71945B15}
+	EndGlobalSection
+EndGlobal
