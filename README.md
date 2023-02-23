@@ -3,6 +3,22 @@ The Employee Pay Calculator is an application that allows you to read an employe
 
 This was completed as a project for a Object-Oriented Programming unit at TAFE NSW. 
 
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/110363828/220803724-e93ea8c1-5ce2-4444-b151-3b4870f6a55e.png)
+
+![image](https://user-images.githubusercontent.com/110363828/220803739-c2e84f72-ca94-431e-91ca-d61d82b71553.png)
+
+![image](https://user-images.githubusercontent.com/110363828/220803759-996aae73-bfb0-49c9-81e5-6b87a5db202b.png)
+
+![image](https://user-images.githubusercontent.com/110363828/220803773-e8d38534-a5d4-472e-8e15-6b1265d1d72a.png)
+
+![image](https://user-images.githubusercontent.com/110363828/220803799-8ab0801e-9f80-48cc-8b76-45ee1f021f3f.png)
+
+![image](https://user-images.githubusercontent.com/110363828/220803814-748bc539-fed5-4d79-a468-a5b7355c07f8.png)
+
+![image](https://user-images.githubusercontent.com/110363828/220803846-8df79e8d-a6ea-46ca-8667-e6231dfbb91a.png)
+
 ## How it Works
 1. Run the application.
 2. Select an employee from the dropdown menu.
